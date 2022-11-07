@@ -51,7 +51,7 @@ pip install Streamlit
 ---
 
 ## Usage
-![Alt text](https://github.com/jpqt/Challenge-15/blob/main/Images/Test%20Bot.png "Testing the bot")
+![Alt text](https://github.com/jpqt/Challenge-18/blob/main/photo/1.png?raw=true "Testing the bot")
 
 
 
